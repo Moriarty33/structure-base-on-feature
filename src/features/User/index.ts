@@ -1,1 +1,1 @@
-export {};
+export { UserAvatar } from "./components";
